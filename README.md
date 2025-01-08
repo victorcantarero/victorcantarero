@@ -1,6 +1,6 @@
 - 👋 Olá!! Eu sou o **Victor Cantarero**
-- 📚 Estudante de ADS 2º Semestre
-- 🌱 Aprendendo Python, HTML, SQL,  
+- 📚 Formado em Defesa cibernétida 
+- 🌱 Aprendendo Python
 - 📫 Contate-me no e-mail: cantarero15@live.com
 - 😁 Pronouns: ele/dele
 
